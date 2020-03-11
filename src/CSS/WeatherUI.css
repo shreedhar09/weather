@@ -1,0 +1,11 @@
+.Back {
+  background-color: #a44a2a;
+  background-image: linear-gradient(315deg, #a44a2a 0%, #cd8a66 74%);
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+
+.ColorText {
+  color: white;
+  font-family: "Luckiest Guy", cursive;
+}
